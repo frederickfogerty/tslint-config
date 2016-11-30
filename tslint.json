@@ -1,5 +1,33 @@
 {
 	"extends": [
 		"tslint:latest"
-	]
+	],
+	"rulesDirectory": [
+		"./node_modules/tslint-react/rules"
+	],
+	"rules": {
+		"indent": [
+			"tab"
+		],
+		"no-consecutive-blank-lines": [
+			false
+		],
+		"object-literal-sort-keys": false,
+		"quotemark": [
+			true,
+			"single"
+		],
+		"jsx-no-lambda": true,
+		"no-shadowed-variable": false,
+		"ordered-imports": [
+			false
+		],
+		"only-arrow-functions": [
+			false
+		],
+		"object-literal-shorthand": false,
+		"object-literal-key-quotes": [
+			false
+		]
+	}
 }

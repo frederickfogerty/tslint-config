@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/frederickfogerty/tslint-config/issues"
   },
-  "homepage": "https://github.com/frederickfogerty/tslint-config#readme"
+  "homepage": "https://github.com/frederickfogerty/tslint-config#readme",
+  "dependencies": {
+    "tslint": "4",
+    "tslint-react": "^2.0.0"
+  }
 }
