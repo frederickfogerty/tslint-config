@@ -1,20 +1,20 @@
 {
-	"name": "@fredfogerty/tslint-config",
-	"version": "1.0.1",
-	"description": "",
-	"files": [
-		"index.js",
-		"tslint.json"
-	],
-	"scripts": {},
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/frederickfogerty/tslint-config.git"
-	},
-	"author": "Frederick Fogerty",
-	"license": "MIT",
-	"bugs": {
-		"url": "https://github.com/frederickfogerty/tslint-config/issues"
-	},
-	"homepage": "https://github.com/frederickfogerty/tslint-config#readme"
+  "name": "@fredfogerty/tslint-config",
+  "version": "1.0.2",
+  "description": "",
+  "files": [
+    "index.js",
+    "tslint.json"
+  ],
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frederickfogerty/tslint-config.git"
+  },
+  "author": "Frederick Fogerty",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/frederickfogerty/tslint-config/issues"
+  },
+  "homepage": "https://github.com/frederickfogerty/tslint-config#readme"
 }
