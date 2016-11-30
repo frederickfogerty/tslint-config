@@ -18,6 +18,6 @@
 	},
 	"homepage": "https://github.com/frederickfogerty/tslint-config#readme",
 	"dependencies": {
-		"tslint": "4",
+		"tslint": "4"
 	}
 }
