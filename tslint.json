@@ -2,9 +2,6 @@
 	"extends": [
 		"tslint:latest"
 	],
-	"rulesDirectory": [
-		"./node_modules/tslint-react/rules"
-	],
 	"rules": {
 		"indent": [
 			"tab"
@@ -17,7 +14,6 @@
 			true,
 			"single"
 		],
-		"jsx-no-lambda": true,
 		"no-shadowed-variable": false,
 		"ordered-imports": [
 			false
