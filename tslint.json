@@ -3,6 +3,10 @@
 		"tslint:latest"
 	],
 	"rules": {
+		"array-type": [
+			true,
+			"array"
+		],
 		"indent": [
 			"tab"
 		],
