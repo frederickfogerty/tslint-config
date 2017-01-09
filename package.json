@@ -1,24 +1,24 @@
 {
-	"name": "@fredfogerty/tslint-config",
-	"version": "3.0.0",
-	"description": "",
-	"files": [
-		"index.js",
-		"tslint.json"
-	],
-	"scripts": {},
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/frederickfogerty/tslint-config.git"
-	},
-	"author": "Frederick Fogerty",
-	"license": "MIT",
-	"bugs": {
-		"url": "https://github.com/frederickfogerty/tslint-config/issues"
-	},
-	"homepage": "https://github.com/frederickfogerty/tslint-config#readme",
-	"dependencies": {
-		"tslint": "4"
-	},
-	"private": false
+  "name": "@fredfogerty/tslint-config",
+  "version": "3.0.1",
+  "description": "",
+  "files": [
+    "index.js",
+    "tslint.json"
+  ],
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frederickfogerty/tslint-config.git"
+  },
+  "author": "Frederick Fogerty",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/frederickfogerty/tslint-config/issues"
+  },
+  "homepage": "https://github.com/frederickfogerty/tslint-config#readme",
+  "dependencies": {
+    "tslint": "4"
+  },
+  "private": false
 }
