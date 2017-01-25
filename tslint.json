@@ -28,6 +28,7 @@
 		"object-literal-shorthand": false,
 		"object-literal-key-quotes": [
 			false
-		]
+		],
+		"interface-over-type-literal": false
 	}
 }
