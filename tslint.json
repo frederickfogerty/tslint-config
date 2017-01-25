@@ -29,6 +29,7 @@
 		"object-literal-key-quotes": [
 			false
 		],
-		"interface-over-type-literal": false
+		"interface-over-type-literal": false,
+		"no-empty-interface": false
 	}
 }
