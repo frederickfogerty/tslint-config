@@ -62,6 +62,7 @@
 		"typedef": [
 			false
 		],
+		"no-duplicate-imports": false,
 		// Should have, but cause so many errors or don't support quick-fix
 		"jsx-alignment": false,
 		"react-tsx-curly-spacing": false,
