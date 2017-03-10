@@ -69,6 +69,11 @@
 			false
 		],
 		"no-duplicate-imports": false,
+		"no-suspicious-comment": false,
+		"ter-arrow-parens": false,
+		"ter-indent": false,
+		// Can't have, as React component methods are arrow functions
+		"max-func-body-length": false,
 		// Should have, but cause so many errors or don't support quick-fix
 		"jsx-alignment": false,
 		"react-tsx-curly-spacing": false,
