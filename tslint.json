@@ -1,9 +1,9 @@
 {
-	"extends": [
-		"tslint",
-		"tslint-microsoft-contrib",
-		"tslint-config-xo/esnext",
-		"tslint-react"
+	"rulesDirectory": [
+		"../../tslint",
+		"../../tslint-microsoft-contrib",
+		"../../tslint-config-xo/esnext.js",
+		"../../tslint-react"
 	],
 	"rules": {
 		"array-type": [
