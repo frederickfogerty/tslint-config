@@ -21,7 +21,7 @@
     "tslint": "^5.2.0",
     "tslint-config-xo": "^1.2.0",
     "tslint-microsoft-contrib": "^4.0.1",
-    "typescript": "^2.3.2"
+    "typescript": "^2.4.1"
   },
   "private": false
 }

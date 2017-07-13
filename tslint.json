@@ -3,7 +3,7 @@
 		"../../tslint",
 		"../../tslint-microsoft-contrib",
 		"../../tslint-config-xo/esnext.js",
-		"../../tslint-react"
+		"../../tslint-react/rules"
 	],
 	"rules": {
 		"array-type": [
